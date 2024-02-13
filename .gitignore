@@ -1,0 +1,4 @@
+api/node_modules
+api/src/db_queries
+api/*.env
+app/node_modules
